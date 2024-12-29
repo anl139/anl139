@@ -7,3 +7,4 @@
 - LinkedIn: www.linkedin.com/in/andrew-lam-s
 - GitHub: github.com/anlam35705
 - Fall AI Studio Project: github.com/achandaman/LA2050chatbot
+- Fall AI Studio Presentation: https://docs.google.com/presentation/d/1UalausrnD3r-xQi5aiLCnq_64F9wjUjY/edit?usp=sharing&ouid=111754130643233507444&rtpof=true&sd=true
